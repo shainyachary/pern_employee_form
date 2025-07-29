@@ -3,6 +3,7 @@ body {
 }
 .app__container {
   margin-top: 1em;
+  margin-bottom: 2em;
 }
 .input__form {
   width: min(760px, 80%);

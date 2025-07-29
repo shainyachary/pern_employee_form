@@ -7,11 +7,15 @@
 3. GitHub Repository URL:
    https://github.com/shainyachary/pern_employee_form
 
-4. screenshots:
-   Employee Form:
-   ![Employee Form](./screenshots/form.png)
-   ag-Grid Table View:
-   ![Table View](./screenshots/table-view.png)
+4. Screenshots
+
+   Employee Form
+
+   ![Employee Form](./screenshots/Form.png)
+
+   ag-Grid Table View
+
+   ![Table View](./screenshots/Table.png)
 
 5. Getting Started
    Prerequisites:
